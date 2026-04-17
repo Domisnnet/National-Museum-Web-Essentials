@@ -1,8 +1,12 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/National-Museum-Web-Essentials?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/National-Museum-Web-Essentials?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/National-Museum-Web-Essentials?style=for-the-badge)
+
 <h2 id="sobre-o-projeto">1. 🏛️ Museu Nacional: Portal de Preservação Histórica 🏛️</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS-blueviolet)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/museu-nacional/blob/main/LICENSE)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/National-Museum-Web-Essentials/blob/main/LICENSE)
 
 ![Preview do Museu Nacional](imagens/museu-nacional.png)
 
@@ -15,7 +19,7 @@ Bem-vindo ao projeto **Museu Nacional**! Este repositório apresenta um portal i
 | 🏛️ O Projeto | 🛠️ Técnico | 🤝 Comunidade |
 | :---: | :---: | :---: |
 | [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre-o-projeto) | [![5. Destaques](https://img.shields.io/badge/5%20-%20Destaques-607D8B)](#destaques-tecnicos) | [![9. Código](https://img.shields.io/badge/9%20-%20Código-795548)](#codigo-fonte) |
-| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Repositório](https://img.shields.io/badge/6%20-%20Repo-009688)](#codigo-fonte) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
+| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Instalação](https://img.shields.io/badge/6%20-%20Instala%C3%A7%C3%A3o-009688)](#instalacao) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
 | [![3. Acessar](https://img.shields.io/badge/3%20-%20Acessar-FF9800)](#como-acessar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#como-contribuir) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
 | [![4. Funções](https://img.shields.io/badge/4%20-%20Funções-9C27B0)](#funcionalidades) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#faq) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
 
@@ -70,11 +74,17 @@ Implementação do `html5shiv` via comentário condicional para assegurar que na
 
 ---
 
-<h2 id="codigo-fonte">6. 📂 Repositório</h2>
+<h2 id="instalacao">6. 🚀 Instalação e Configuração Local</h2>
 
 Confira a estrutura de pastas e a organização dos assets:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Fmuseu--nacional-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/museu-nacional)
+```bash
+# Clone este repositório
+$ git clone https://github.com/Domisnnet/National-Museum-Web-Essentials.git(https://github.com/Domisnnet/National-Museum-Web-Essentials.git)
+
+#Acessar a pasta
+cd National-Museum-Web-Essentials
+```
 
 ---
 
@@ -84,11 +94,17 @@ Siga os passos abaixo para fortalecer este projeto:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/museu-nacional/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/National-Museum-Web-Essentials/fork) |
 | **02** | **Branch** | `git checkout -b feature/NovaGaleria` |
 | **03** | **Commit** | `git commit -m 'feat: novas fotos da exposição de dinossauros'` |
 | **04** | **Push** | `git push origin feature/NovaGaleria` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/museu-nacional/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/National-Museum-Web-Essentials/compare)
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/National-Museum-Web-Essentials/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/National-Museum-Web-Essentials/issues/new)
 
 ---
 
@@ -115,7 +131,7 @@ Siga os passos abaixo para fortalecer este projeto:
 
 Explore a arquitetura CSS e o arquivo Normalize:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/museu-nacional/tree/main)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FNational--Museum--Web--Essentials-blue?style=for-the-badge&logo=github&labelColor=0d1117)](https://domisnnet.github.io/National-Museum-Web-Essentials/)
 
 ---
 
@@ -137,7 +153,7 @@ O projeto do Museu Nacional celebra a educação e a memória brasileira:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/museu-nacional/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/National-Museum-Web-Essentials/blob/main/LICENSE)
 
 ---
 

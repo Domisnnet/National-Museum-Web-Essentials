@@ -4,7 +4,7 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS-blueviolet)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/museu-nacional/blob/main/LICENSE)
 
-![Preview do Museu Nacional](src/imagens/museu-preview.png)
+![Preview do Museu Nacional](imagens/museu-nacional.png)
 
 Bem-vindo ao projeto **Museu Nacional**! Este repositório apresenta um portal institucional dedicado à história e cultura brasileira. O site foi projetado para ser um centro de informações completo, oferecendo detalhes sobre exposições icônicas, acervos científicos, além de ferramentas interativas como mapas de localização, vídeos institucionais e um sistema de verificação de disponibilidade para visitas.
 
@@ -37,8 +37,8 @@ Bem-vindo ao projeto **Museu Nacional**! Este repositório apresenta um portal i
 Explore o acervo digital e a história de 200 anos do Museu clicando abaixo:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/museu-nacional/" target="_blank">
-    <img alt="Botão Acessar" src="src/imagens/botão.webp" height="70" width="70" />
+  <a href="https://domisnnet.github.io/National-Museum-Web-Essentials/" target="_blank">
+    <img alt="Botão Acessar" src="imagens/botão.webp" height="70" width="70" />
   </a>
 </div>
 
@@ -143,4 +143,6 @@ Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badg
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+<a href="https://github.com/Domisnnet"> 
+  <img src="imagens/DomisDev.png" width="90" alt="Acessar perfil GitHub"> 
+</a>
